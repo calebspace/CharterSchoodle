@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05",
+  "generatedAt": "2026-09-06",
   "notes": [
     "Automatically generated CharterSchoodle daily puzzle calendar.",
     "Built from manually validated statewide clue-bank entries with a deterministic quality-weighted school rotation.",
@@ -29,9 +29,9 @@
   },
   "stats": {
     "playableSchools": 212,
-    "puzzleCount": 852,
+    "puzzleCount": 853,
     "startDate": "2026-05-07",
-    "endDate": "2028-09-04"
+    "endDate": "2028-09-05"
   },
   "puzzles": [
     {
@@ -25591,6 +25591,36 @@
         {
           "difficulty": 1,
           "text": "The answer begins with the letter P."
+        }
+      ]
+    },
+    {
+      "date": "2028-09-05",
+      "answerSchoolId": "youngsville-academy",
+      "clues": [
+        {
+          "text": "John Allen is listed as chairman of the board of directors.",
+          "difficulty": 8
+        },
+        {
+          "text": "Larry Henson is identified on official pages as Executive Director and founder.",
+          "difficulty": 7
+        },
+        {
+          "text": "The school says it provides a joyful learning environment while cultivating good character and strong reading, writing, and arithmetic skills.",
+          "difficulty": 4
+        },
+        {
+          "text": "Official materials repeatedly describe the school as rigorous, classical, and college-preparatory.",
+          "difficulty": 3
+        },
+        {
+          "text": "Its official motto is the Latin phrase \"Esse Quam Videri.\"",
+          "difficulty": 2
+        },
+        {
+          "difficulty": 1,
+          "text": "The answer begins with the letter Y."
         }
       ]
     }
